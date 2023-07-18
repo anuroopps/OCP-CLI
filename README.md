@@ -11,3 +11,11 @@ We can manage an OpenShift cluster from the web console or by using the kubectl 
 
 
 Yes, that's correct. Namespaces are used to differentiate resources that have the same names within a cluster.
+
+
+Operators : -
+* Operators are important components of Red Hat OpenShift Container Platform (RHOCP).
+* Operators automate the required tasks to maintain a healthy RHOCP cluster.
+* Operators are the preferred method of packaging, deploying, and managing services on the control plane.
+* Operators provide the means of monitoring applications, performing health checks, managing over-the-air (OTA) updates, and ensuring that 
+  applications remain in your specified state.
